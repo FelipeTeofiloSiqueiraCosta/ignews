@@ -15,6 +15,7 @@ export default NextAuth({
       // },
     }),
   ],
+  secret: process.env.NEXTAUTH_SECRET,
   callbacks: {
     async session({ session }) {
       //permite agente modificar os dados dentro do hook useSession
