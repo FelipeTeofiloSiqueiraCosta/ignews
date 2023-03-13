@@ -1,0 +1,28 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "bread"
+  },
+  "title": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Exercitation amet est eu aliqua et cupidatat cupidatat aliqua dolor aute."
+        }
+      }
+    ]
+  },
+  "content": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Consequat laboris labore occaecat anim dolor commodo nostrud eiusmod occaecat reprehenderit veniam aliqua officia."
+        }
+      }
+    ]
+  }
+}
